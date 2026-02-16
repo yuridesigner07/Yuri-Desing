@@ -1,0 +1,7 @@
+{
+  "name": "Design & Motion Portfolio Studio",
+  "description": "A high-end, dark-themed portfolio for design and motion graphics artists featuring product listings, pricing, and client testimonials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
